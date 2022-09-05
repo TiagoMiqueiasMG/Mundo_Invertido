@@ -7,9 +7,9 @@
   *HTML
   HTML ( Esturtura Básica) 
   - Acessibilidade no HTML através da Tag Alt.
- <br/>
+ <br><br/>
   -Indexação do Google.
- <br/>
+ <br><br/>
   -Anexo de vídeos do google em seu código.
  <br/> 
  ## CSS
