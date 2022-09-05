@@ -13,12 +13,19 @@
   -Anexo de vídeos do google em seu código.
  <br/> 
  ## CSS
+ <br><br/>
   -Uso de Variáveis
+ <br><br/>
   -Uso de Label, role, aria.
+ <br><br/>
   -Uso de gradiente.
-  -Uso de fontes do google. 
+ <br><br/>
+  -Uso de fontes do google.
+ <br><br/>
   -Formatação
+ <br><br/>
   ## Javascript
+ <br><br/>
   -Animação efeito para troca de tema pelo botão (Inverter Mundo). 
   
   
