@@ -14,19 +14,19 @@
  <br/> 
  ## CSS
  <br><br/>
-  -Uso de Variáveis
+ - Uso de Variáveis
  <br><br/>
-  -Uso de Label, role, aria.
+ - Uso de Label, role, aria.
  <br><br/>
-  -Uso de gradiente.
+ - Uso de gradiente.
  <br><br/>
-  -Uso de fontes do google.
+ - Uso de fontes do google.
  <br><br/>
-  -Formatação
+ - Formatação
  <br><br/>
   ## Javascript
  <br><br/>
-  -Animação efeito para troca de tema pelo botão (Inverter Mundo). 
+ - Animação efeito para troca de tema pelo botão (Inverter Mundo). 
   
   
  
