@@ -28,3 +28,8 @@
     - Introdução ao Firebase
     - Integração com o Firebase
  
+ https://github.com/TiagoMiqueiasMG/Mundo_Invertido/blob/main/assets/images/print/stranger_1.PNG
+
+ <p>
+    <img align=left margin=10 width=80 src="[https://avatars.githubusercontent.com/u/16018277?v=4](https://github.com/TiagoMiqueiasMG/Mundo_Invertido/blob/main/assets/images/print/stranger_1.PNG)"/>
+    <p>Pagina Modo Claro<br>
