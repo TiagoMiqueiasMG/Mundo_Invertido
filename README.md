@@ -9,8 +9,10 @@
   - Acessibilidade no HTML através da Tag Alt.
  <br/>
   -Indexação do Google.
+ <br/>
   -Anexo de vídeos do google em seu código.
-  ## CSS
+ <br/> 
+ ## CSS
   -Uso de Variáveis
   -Uso de Label, role, aria.
   -Uso de gradiente.
