@@ -10,10 +10,10 @@
  <br><br/>
  - Indexação do Google.
  <br><br/>
- - Anexo de vídeos do google em seu código.
  <br/> 
  ## CSS
  <br><br/>
+ <p>
  - Anexo de vídeos do google em seu código.
  - Uso de Variáveis
  <br><br/>
@@ -25,6 +25,7 @@
  <br><br/>
  - Formatação
  <br><br/>
+  <p/>
   ## Javascript
  <br><br/>
  - Animação efeito para troca de tema pelo botão (Inverter Mundo). 
