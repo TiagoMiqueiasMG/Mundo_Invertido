@@ -14,6 +14,7 @@
  <br/> 
  ## CSS
  <br><br/>
+ - Anexo de vídeos do google em seu código.
  - Uso de Variáveis
  <br><br/>
  - Uso de Label, role, aria.
