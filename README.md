@@ -30,6 +30,5 @@
  
  https://github.com/TiagoMiqueiasMG/Mundo_Invertido/blob/main/assets/images/print/stranger_1.PNG
 
- <p>
-    <img align=left margin=10 width=80 src="[https://avatars.githubusercontent.com/u/16018277?v=4](https://github.com/TiagoMiqueiasMG/Mundo_Invertido/blob/main/assets/images/print/stranger_1.PNG)"/>
-    <p>Pagina Modo Claro<br>
+
+   ![Página Modo Claro]([https://user-images.githubusercontent.com/62525275/160643989-10875c1a-c6e4-442d-8977-b6fb471ce47e.png](https://github.com/TiagoMiqueiasMG/Mundo_Invertido/blob/main/assets/images/print/stranger_1.PNG))
