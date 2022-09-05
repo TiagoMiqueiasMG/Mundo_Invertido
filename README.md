@@ -6,7 +6,8 @@
  ## Assuntos importantes abordados: 
   *HTML
   HTML ( Esturtura Básica) 
-  - Acessibilidade no HTML através da Tag Alt
+  - Acessibilidade no HTML através da Tag Alt.
+ <br/>
   -Indexação do Google.
   -Anexo de vídeos do google em seu código.
   ## CSS
